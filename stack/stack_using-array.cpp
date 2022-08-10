@@ -53,4 +53,5 @@ int main(){
     cout<<s1.pop();
     cout<<s1.pop();
     cout<<s1.pop();
+    cout<<"stack implementation"<<endl;
 }
